@@ -1,0 +1,9 @@
+CreateUser
+DeleteUser
+CreateDatabase
+DeleteDatabase
+Create_A_New_Table_Inside_Database
+Insert_A_New_Row_in_a_Table
+Select_Data_from_Table
+Exit
+
